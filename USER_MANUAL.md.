@@ -8,3 +8,7 @@ Usage Instructions
 The Prototype was created with the use of Figma. Figma is a powerful, cloud-based design tool that enables real-time collaboration and seamless feedback among team members. 
 Its intuitive interface and extensive features make it ideal for creating high-fidelity prototypes and responsive designs efficiently.
 
+Sample Flow Sign-In
+The application design flow starts with a welcome screen, which serves as the entry point for users. From the welcome screen, users are directed to the sign-up page. 
+After completing the sign-up process, users are taken to the personal information input page, where they can provide additional details about themselves.
+
