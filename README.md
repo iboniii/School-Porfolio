@@ -5,4 +5,4 @@ Team Logo: Check out the logo our team designed.
 
 Coursera Certificates: Browse the completed certifications.
 
-Usage Instructions
+User Manual: Usage Instructions
