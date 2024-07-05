@@ -3,6 +3,6 @@ Welcome to my School Portfolio Repository! This repository highlights my achieve
 
 Team Logo: Check out the logo our team designed.
 
-Coursera Certificates: Browse the completed certifications I have earned.
+Coursera Certificates: Browse the completed certifications.
 
 Usage Instructions
